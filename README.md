@@ -46,4 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Based on [aj-4](https://github.com/aj-4)'s take of automation for Tinder.
 
 [Contact](https://www.lucianohandal.com/contact)
+
 [Project Link](https://github.com/lhandalb/tinderBot)
